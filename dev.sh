@@ -5,4 +5,4 @@ echo ' '
 docker run -d \
   -p=8080:8080 \
   --env-file=.env \
-  hasura/graphql-engine:v1.3.0-beta.1
+  hasura/graphql-engine:v1.3.1
